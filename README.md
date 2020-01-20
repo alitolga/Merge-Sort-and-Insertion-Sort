@@ -2,7 +2,7 @@
 
 This code contains a merge sort and insertion sort example, which I wrote for my Analysis of Algorithms class in my 3rd year in ITU CE.
 
-The code reads the file **log_inf.csv** and writes the sorted list to **sorted.csv** file. It also writes execution details such as the execution time into the **calcTimes.csv** file.
+The code reads the file **log_inf.csv** and writes the sorted list to **sorted.csv** file. It also writes execution details such as the execution time into the **calcTimes.csv** file. An example log_inf.csv file is given.
 
 The code takes 6 parameters as such 
 
